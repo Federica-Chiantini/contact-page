@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-![show the homepage](src/assets/images/Screenshot.jpeg)
+![show the homepage](src/assets/images/Screenshot.png)
